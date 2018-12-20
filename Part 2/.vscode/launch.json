@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Map",
+            "request": "launch",
+            "mainClass": "Map"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeUtils",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "TreeUtils",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BTMethods",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "BTMethods",
+            "args": ""
+        }
+    ]
+}
